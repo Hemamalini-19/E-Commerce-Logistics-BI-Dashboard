@@ -1,5 +1,6 @@
 **E-Commerce Logistics & Revenue BI Dashboard**
 This project demonstrates a full-cycle Data Analytics workflow, from raw data engineering in Python to interactive visualization in Excel.
+### 📊 **[View Interactive Dashboard on Google Drive](https://docs.google.com/spreadsheets/d/1hFTXkgIwp5Fwfp4onsTF9-qXjnFSN6HC/edit?usp=share_link&ouid=100129684790318957158&rtpof=true&sd=true))**
 
 🛠 Tech Stack
 Data Engineering: Python (Pandas) for merging and cleaning 100,000+ records.
