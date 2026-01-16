@@ -4,7 +4,7 @@ This project demonstrates a full-cycle Data Analytics workflow, from raw data en
 
 🛠 Tech Stack
 Data Engineering: Python (Pandas) for merging and cleaning 100,000+ records.
-Business Intelligence: Excel Online/Mac (Pivot Tables, Power Pivot).
+Business Intelligence: Excel Online (Pivot Tables, Power Pivot).
 Visualization: Interactive Dashboards with Slicers and Clustered Bar Charts.
 
 📊 Key Features
